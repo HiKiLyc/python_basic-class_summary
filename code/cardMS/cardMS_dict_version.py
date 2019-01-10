@@ -102,6 +102,7 @@ while True:
     elif user_command == '0':  # command 0
         # quit
         print('# Program End #')
+        break
 
     else:
         # other
