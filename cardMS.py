@@ -1,6 +1,6 @@
 """
 card including user info of the name, tel, age, uid.
-features : add, delete, modify, view
+features : add, delete, modify, view.
 """
 
 # save
